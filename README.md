@@ -24,3 +24,17 @@ Designs include
   - Lightweight mesh bottom to allow for ventilation
   - Swivel gate for variable exterior ventilation
   - 3" high walls for housing moisture absorbing content (like newspaper, egg cartons, etc.)
+
+- Medium-to-deep extension
+
+ ![Medium-to-deep extension](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/dadant_deep_extension.png)
+ 
+  - Extends the regular medium (or dadant) box by 3" to match the height of a deep box
+  - Recessed cuts at the bottom extend into frame rests of medium box below, making a tight/secure fit
+  
+- Gabled outer cover
+
+ ![Gabled outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/gabled_outer_cover.png)
+ 
+  - Pitched roof
+  - Holes for ventilation and moisture control
