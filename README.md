@@ -38,3 +38,46 @@ Designs include
  
   - Pitched roof
   - Holes for ventilation and moisture control
+
+- Hive stand
+
+ ![Hive stand](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/hive_stand.png)
+ 
+  - Durable ABS construction
+  - Lightweight and weather proof
+
+- Medium/dadant box
+
+ ![Medium/dadant box](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/medium_box.png)
+ 
+  - Under-cut, resessed handles on all four sides
+  - Rabit joins
+
+- Outer cover
+
+ ![Outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/outer_cover.png)
+ 
+  - Basic outer cover with 3/4" flat roof
+
+- Raised inner cover
+
+ ![Raised inner cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/raised_inner_cover.png)
+ 
+  - Inner cover
+  - Raised side walls to house shallow storage of feed
+  - Ventilation gate
+
+- Slatted rack
+
+ ![Slatted rack](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/slatted_rack.png)
+ 
+  - Provides a foyer for vaporizing away from bees and brood
+  - [How to use a slatted rack](http://honeybeesuite.com/how-to-use-a-slatted-rack/)
+
+- Ventilated outer cover
+
+ ![Ventilated outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/ventilated_outer_cover.png)
+ 
+  - Raised inner housing
+  - Support to seal against inner cover
+  - Locations where one can regulate ventilation
