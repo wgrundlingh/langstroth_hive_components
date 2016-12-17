@@ -5,7 +5,7 @@ Designs include
 
 - Screened bottom board
 
- ![Screened bottom board](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/bottom_board.png?raw=true)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/bottom_board.png" width="300" alt="Screened bottom board">
 
   - screened bottom
   - removable mite board as a form of Integrated Pest Management (IPM)
@@ -19,7 +19,7 @@ Designs include
 
 - Canvas cover
 
- ![Canvas cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/canvas_cover.png?raw=true)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/canvas_cover.png" width="300">
  
   - Lightweight mesh bottom to allow for ventilation
   - Swivel gate for variable exterior ventilation
@@ -27,41 +27,41 @@ Designs include
 
 - Medium-to-deep extension
 
- ![Medium-to-deep extension](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/dadant_deep_extension.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/dadant_deep_extension.png" width="300">
  
   - Extends the regular medium (or dadant) box by 3" to match the height of a deep box
   - Recessed cuts at the bottom extend into frame rests of medium box below, making a tight/secure fit
   
 - Gabled outer cover
 
- ![Gabled outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/gabled_outer_cover.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/gabled_outer_cover.png" width="300">
  
   - Pitched roof
   - Holes for ventilation and moisture control
 
 - Hive stand
 
- ![Hive stand](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/hive_stand.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/hive_stand.png" width="300">
  
   - Durable ABS construction
   - Lightweight and weather proof
 
 - Medium/dadant box
 
- ![Medium/dadant box](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/medium_box.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/medium_box.png" width="300">
  
   - Under-cut, resessed handles on all four sides
   - Rabit joins
 
 - Outer cover
 
- ![Outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/outer_cover.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/outer_cover.png" width="300">
  
   - Basic outer cover with 3/4" flat roof
 
 - Raised inner cover
 
- ![Raised inner cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/raised_inner_cover.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/raised_inner_cover.png" width="300">
  
   - Inner cover
   - Raised side walls to house shallow storage of feed
@@ -69,14 +69,14 @@ Designs include
 
 - Slatted rack
 
- ![Slatted rack](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/slatted_rack.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/slatted_rack.png" width="300">
  
   - Provides a foyer for vaporizing away from bees and brood
   - [How to use a slatted rack](http://honeybeesuite.com/how-to-use-a-slatted-rack/)
 
 - Ventilated outer cover
 
- ![Ventilated outer cover](https://github.com/wgrundlingh/langstroth_hive_components/blob/master/ventilated_outer_cover.png)
+ <img src="https://github.com/wgrundlingh/langstroth_hive_components/blob/master/ventilated_outer_cover.png" width="300">
  
   - Raised inner housing
   - Support to seal against inner cover
