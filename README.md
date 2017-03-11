@@ -10,10 +10,10 @@ Designs include
   - screened bottom
   - removable mite board as a form of Integrated Pest Management (IPM)
   - 2 x 4 construction for durability
-  - 1/8" lip that fits inner dimensions of hive boxes for increased traction during movement
+  - 1/8" lip that fits inner dimensions of hive boxes for increased traction during movement (optional)
   - sloped landing strip to remove moisture build-up from rain
   - 5/8" entrance clearance to allow access for front-usage vaporizer
-  - side walls include 3/4" holes that mimic [ApiShield's hornet trap](http://www.vita-europe.com/products/apishield-hornet-trap/):
+  - side walls include 3/4" holes that mimic [ApiShield's hornet trap](http://www.vita-europe.com/products/apishield-hornet-trap/) (optional):
  
   ![ApiShield's hornet trap](http://www.vita-europe.com/wp-content/uploads/Api-Shield1-300x264.png)
 
