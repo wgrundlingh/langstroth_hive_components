@@ -1,4 +1,4 @@
-##Langstroth hive components
+<h2>Langstroth hive components</h2>
 
 Concept designs in Sketchup for Langstroth hive components; specifically for a 10-frame setup.
 Designs include
